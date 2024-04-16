@@ -19,7 +19,7 @@ const DATA = [
 
     id:'3',
     porcentagem:'5%',
-    titulo:'Alimentaçõa',
+    titulo:'Alimentação',
     imagem:'https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813_1280.jpg',
     descricao:'Momento crucial do dia, restaurando as energias através das refeições.',
 
